@@ -11,6 +11,8 @@ make sure that the plugins installed
 - de.docs_as_co.intellij.plugin.diagramsnet
 - org.intellij.plugins.markdown
 
+# IDE
+I tried latest release also the problem was the same.
 # problems
 
 ## Previews
