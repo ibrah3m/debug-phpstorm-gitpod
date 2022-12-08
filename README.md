@@ -1,5 +1,6 @@
 # debug-phpstorm-gitpod
-This is a demonstration repo for debug phpstorm plugins in gitpod 
+This is a demonstration repo for debug phpstorm plugins in gitpod  
+[follow disscussion here](https://discord.com/channels/816244985187008514/1050200587121213511)
 
 ## Gitpod 
 
@@ -23,3 +24,7 @@ althoug the plugin is installed
 
 I can't see the preview tab for UML files and any file with .drawio extenstion
 althoug the plugin is installed 
+
+
+# example
+![](https://media.discordapp.net/attachments/1050200587121213511/1050200746794160198/image.png?width=983&height=671)
