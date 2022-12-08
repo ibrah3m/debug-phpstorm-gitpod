@@ -4,7 +4,7 @@ This is a demonstration repo for debug phpstorm plugins in gitpod
 
 ## Gitpod 
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/ibrah3m/debug-phpstorm-gitpod)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ibrah3m/debug-phpstorm-gitpod)
 
 # Prerequisites
 make sure that the plugins installed 
